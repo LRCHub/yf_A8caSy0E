@@ -1,0 +1,128 @@
+{
+  "version": 1,
+  "base_track": "曖昧",
+  "base_artist": "WANIMA",
+  "createdAt": "2026-02-21T19:33:28.398950Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "曖昧",
+      "artist": "Faye Wong",
+      "has_synced": false,
+      "path": "select/01_曖昧_Faye_Wong.txt"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "曖昧 me mine",
+      "artist": "SILENT SIREN",
+      "has_synced": true,
+      "path": "select/02_曖昧_me_mine_SILENT_SIREN.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "曖昧",
+      "artist": "楊丞琳",
+      "has_synced": true,
+      "path": "select/03_曖昧_楊丞琳.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "曖昧",
+      "artist": "Joker Xue",
+      "has_synced": true,
+      "path": "select/04_曖昧_Joker_Xue.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "曖昧",
+      "artist": "Rainie Yang",
+      "has_synced": true,
+      "path": "select/05_曖昧_Rainie_Yang.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "曖昧",
+      "artist": "Faye Wong",
+      "has_synced": true,
+      "path": "select/06_曖昧_Faye_Wong.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "曖昧",
+      "artist": "Cyndi Wang",
+      "has_synced": true,
+      "path": "select/07_曖昧_Cyndi_Wang.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "曖昧",
+      "artist": "Faye Wong",
+      "has_synced": true,
+      "path": "select/08_曖昧_Faye_Wong.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "曖昧",
+      "artist": "Wong, Faye",
+      "has_synced": true,
+      "path": "select/09_曖昧_Wong,_Faye.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "曖昧",
+      "artist": "WANIMA",
+      "has_synced": true,
+      "path": "select/10_曖昧_WANIMA.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "曖昧",
+      "artist": "Faye Wong",
+      "has_synced": true,
+      "path": "select/11_曖昧_Faye_Wong.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "曖昧",
+      "artist": "Wong, Faye",
+      "has_synced": true,
+      "path": "select/12_曖昧_Wong,_Faye.lrc"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "曖昧",
+      "artist": "乃木坂46",
+      "has_synced": false,
+      "path": "select/13_曖昧_乃木坂46.txt"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "曖昧 - Aimai",
+      "artist": "WANIMA",
+      "has_synced": true,
+      "path": "select/14_曖昧_-_Aimai_WANIMA.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "曖昧",
+      "artist": "WANIMA",
+      "has_synced": false,
+      "path": "select/pl_01_曖昧_WANIMA.txt"
+    }
+  ]
+}
